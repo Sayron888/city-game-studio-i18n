@@ -173,7 +173,7 @@ ru:
   LABEL_DEFAULT_GAME_GENRE_DESCRIPTION: |
     [b]Разблокировка новых игровых жанров[/b].
 
-    Чтобы разблокировать новый жанр, [b]щелкните по его иконке[/b].
+    Чтобы разблокировать новый жанр, [b]щелкните по иконке[/b].
     Если у вас достаточно очков, то игровой жанр будет разблокирован.
 
     [b]Количество очков жанров[/b]расположено в [b]правом верхнем углу экрана[/b].
@@ -323,7 +323,7 @@ ru:
   LABEL_GAME_ANNOUNCED_DESCRIPTION_EXCITED: |
     Поклонники взволнованы, как и мы!
   LABEL_GAME_ANNOUNCED_DESCRIPTION_DISAPPOINTED: |
-    Болельщики недовольны, и специализированные журналы тоже, кажется, хотят
+    Болельщики недовольны, и специализированные журналы тоже, кажется, они хотят
     выпустить пар на этой игре.
 
     Надо сказать, что не так давно они выпустили подобную игру.
@@ -338,11 +338,11 @@ ru:
   LABEL_ATTENDANCE: Посещаемость
   LABEL_NONE: Никто
   LABEL_NO_BUILDING: Нет доступных зданий
-  LABEL_NO_CONVENTION: Hет запланированых съездов
-  LABEL_CONVENTION_LAST_DATE: Последний съезд
+  LABEL_NO_CONVENTION: Hет запланированых конференций
+  LABEL_CONVENTION_LAST_DATE: Последняя конференция
   LABEL_DATE: Срок оплаты
   LABEL_STANDSIZE: Размер стенда
-  LABEL_CONVENTION_NAME: Название съезда
+  LABEL_CONVENTION_NAME: Название конференции
   LABEL_ATTEND: Посетить
   LABEL_ORGANIZE: Организовать
   LABEL_INFORMATIONS: Подробнее
@@ -1005,7 +1005,7 @@ ru:
   TOOLTIP_EXIT: Выход
   TOOLTIP_STUDIOS: Список ваших студий
   TOOLTIP_STUDIOLIST: "Список офисов, доступных в городе"
-  TOOLTIP_CONSTRUCT: Создайте новое здание для офиса или приймите конвенцию
+  TOOLTIP_CONSTRUCT: Создайте новое здание для офиса или примите конвенцию
   TOOLTIP_CONFERENCE: Управление соглашениями
   TOOLTIP_MARKETING: Управление маркетинговыми кампаниями
   TOOLTIP_SELL: Продать свой офис
@@ -1071,8 +1071,8 @@ ru:
     дождя, а остальные смеются над этим.
   LOADING_SCREEN_TIP_18: |
     Не полагайтесь на все, что вы можете прочитать на экранах загрузки.
-  GAMEEDITION_SUBMIT: Издательские предложения
-  GAMEEDITION_RECEIVE: Получать предложения по издательской деятельности
+  GAMEEDITION_SUBMIT: Выпускать издательские предложения
+  GAMEEDITION_RECEIVE: Получать издательские предложения
   WORLDMAP: Карта города
   MARKETING_CAMPAIGN_MAGAZINE: Рекламная кампания в прессе
   MARKETING_CAMPAIGN_TV: Телевизионная рекламная кампания
